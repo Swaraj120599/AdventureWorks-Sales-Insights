@@ -19,12 +19,11 @@ It is ideal for **executives, sales managers, and business analysts** seeking to
 
 The dashboard features the following KPIs:
 
-    ** Metric	Value**
-- Total Revenue -	$24.91M
-- Total Profit	- $10.46M
-- Total Orders	- 25,000
-- Return Rate	  - 2.17%
-- 
+- **Total Revenue**   -	$24.91M
+- **Total Profit**	 - $10.46M
+- **Total Orders**	 - 25,000
+- **Return Rate**	    - 2.17%
+ 
 ## 🔍 Data Insights:-
 
 Here are some of the main insights discovered through this dashboard:
