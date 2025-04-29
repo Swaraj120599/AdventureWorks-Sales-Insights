@@ -1,6 +1,9 @@
 # 🚴 AdventureWorks Sales Dashboard
 This repository contains an interactive Power BI dashboard that visualizes and analyzes the sales performance of the fictional AdventureWorks company. The dashboard offers a business-friendly interface to monitor trends in revenue, profit, product performance, and customer behavior over time.
 
+# Dashboard Overview:-
+![image](https://github.com/user-attachments/assets/62e03ff9-ff29-4f8d-866c-d241fdc8ff1d)
+
 ## Project Overview:-
 
 The **AdventureWorks Sales Dashboard** is built to help stakeholders and analysts:
